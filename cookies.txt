@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.leonsintegrations.com	TRUE	/	FALSE	1999999999	PHPSESSID	jjuhpprqfk0pd6d1ot1ol9cshk
+www.leonsintegrations.com	TRUE	/	FALSE	1999999999	woocommerce_recently_viewed	5148%7C4898%7C3013%7C1490%7C3045%7C3005%7C3001%7C2997%7C3008%7C2993%7C2995%7C2978%7C2986%7C2988%7C4900
+

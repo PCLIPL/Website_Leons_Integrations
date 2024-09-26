@@ -1,0 +1,87 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 10 Sep 2024 09:49:29 at http://www.leonsintegrations.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.leonsintegrations.com/ -O1 "C:\Users\ABHISHEK\OneDrive\Desktop\leonsdemo\www.leonsdemo.com" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:49:29	Warning: 	Note: due to www.leonsintegrations.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/, /my-account/, /cart/, /blog/, /checkout/ (see in the options to disable this)
+09:56:39	Error: 	"Not Found" (404) at link www.leonsintegrations.com/shop/control-cards/fuel-dispenser-control-card/ (from www.leonsintegrations.com/)
+09:56:39	Error: 	"Not Found" (404) at link www.leonsintegrations.com/shop/smart-energy/mppt-charge-controller/ (from www.leonsintegrations.com/)
+09:56:45	Error: 	"Not Found" (404) at link www.leonsintegrations.com/shop/smart-energy/1-o-energy-meter/ (from www.leonsintegrations.com/)
+09:57:25	Error: 	"Not Found" (404) at link www.leonsintegrations.com/shop/iot-iiot-module/bluetooth-module/1t01/ (from www.leonsintegrations.com/)
+09:57:25	Error: 	"Not Found" (404) at link www.leonsintegrations.com/shop/iot-iiot-module/bluetooth-module/1t02/ (from www.leonsintegrations.com/)
+09:57:25	Error: 	"Not Found" (404) at link www.leonsintegrations.com/shop/iot-iiot-module/bluetooth-module/1n01/ (from www.leonsintegrations.com/)
+09:57:25	Error: 	"Not Found" (404) at link www.leonsintegrations.com/shop/iot-iiot-module/bluetooth-module/1t07/ (from www.leonsintegrations.com/)
+09:57:25	Error: 	"Not Found" (404) at link www.leonsintegrations.com/shop/iot-iiot-module/bluetooth-module/1r01/ (from www.leonsintegrations.com/)
+09:57:32	Error: 	"Not Found" (404) at link www.leonsintegrations.com/shop/iot-iiot-module/gsm-gps-module/ligsm-800c/ (from www.leonsintegrations.com/)
+09:57:32	Error: 	"Not Found" (404) at link www.leonsintegrations.com/shop/iot-iiot-module/gsm-gps-module/gsmgps-868/ (from www.leonsintegrations.com/)
+09:57:32	Error: 	"Not Found" (404) at link www.leonsintegrations.com/shop/iot-iiot-module/gsm-gps-module/ligsm-206c/ (from www.leonsintegrations.com/)
+09:57:35	Error: 	"Not Found" (404) at link www.leonsintegrations.com/shop/iot-iiot-module/wi-fi-module/smwt-1e/ (from www.leonsintegrations.com/)
+09:57:40	Error: 	"Not Found" (404) at link www.leonsintegrations.com/shop/thermal-printer/bluetooth-thermal-printer/2-bluetooth-thermal-printer/ (from www.leonsintegrations.com/)
+09:57:40	Error: 	"Not Found" (404) at link www.leonsintegrations.com/shop/thermal-printer/panel-mount-thermal-printer/2-inch-panel-mount-thermal-printer/ (from www.leonsintegrations.com/)
+10:02:41	Warning: 	Moved Permanently for www.leonsintegrations.com/?p=18
+10:02:41	Warning: 	File has moved from www.leonsintegrations.com/?p=18 to http://www.leonsintegrations.com/products/
+10:02:41	Error: 	"Not Found" (404) at link www.leonsintegrations.com/shop/smart-energy/3-o-energy-meter/ (from www.leonsintegrations.com/products/)
+10:03:28	Error: 	"Not Found" (404) at link www.leonsintegrations.com/shop/control-cards/bldc-driver-card-ceiling-fan/ (from www.leonsintegrations.com/product/bldc-driver-card-ceiling-fan/)
+10:03:28	Warning: 	Moved Permanently for www.leonsintegrations.com/?p=4596
+10:03:28	Warning: 	File has moved from www.leonsintegrations.com/?p=4596 to http://www.leonsintegrations.com/product/bldc-driver-card-ceiling-fan/
+10:03:50	Warning: 	Moved Permanently for www.leonsintegrations.com/?p=762
+10:03:50	Warning: 	File has moved from www.leonsintegrations.com/?p=762 to http://www.leonsintegrations.com/smart-energy/
+10:03:52	Warning: 	Moved Permanently for www.leonsintegrations.com/?p=1600
+10:03:52	Warning: 	File has moved from www.leonsintegrations.com/?p=1600 to http://www.leonsintegrations.com/product/3-o-energy-meter/
+10:05:15	Warning: 	Moved Permanently for www.leonsintegrations.com/?p=877
+10:05:15	Warning: 	File has moved from www.leonsintegrations.com/?p=877 to http://www.leonsintegrations.com/iot-iiot-modules/
+10:05:26	Warning: 	Moved Permanently for www.leonsintegrations.com/?p=886
+10:05:26	Warning: 	File has moved from www.leonsintegrations.com/?p=886 to http://www.leonsintegrations.com/bluetooth-module/
+10:05:27	Warning: 	Moved Permanently for www.leonsintegrations.com/?p=1077
+10:05:27	Warning: 	File has moved from www.leonsintegrations.com/?p=1077 to http://www.leonsintegrations.com/gsm-gps-module/
+10:05:27	Warning: 	Moved Permanently for www.leonsintegrations.com/?p=1080
+10:05:27	Warning: 	File has moved from www.leonsintegrations.com/?p=1080 to http://www.leonsintegrations.com/wi-fi-module/
+10:05:27	Warning: 	Moved Permanently for www.leonsintegrations.com/?p=3730
+10:05:27	Warning: 	File has moved from www.leonsintegrations.com/?p=3730 to http://www.leonsintegrations.com/thermal-printers/
+10:05:27	Warning: 	Moved Permanently for www.leonsintegrations.com/?p=5184
+10:05:27	Warning: 	File has moved from www.leonsintegrations.com/?p=5184 to http://www.leonsintegrations.com/pcb-design/
+10:05:27	Error: 	"Bad Request" (400) at link www.leonsintegrations.com/pcb-design/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='1' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cpath d='M0,6c6,0,6,13,12,13S18,6,24,6'/%3E%3C/svg%3E" (from www.leonsintegrations.com/pcb-design/)
+10:05:27	Warning: 	Moved Permanently for www.leonsintegrations.com/?p=2865
+10:05:27	Warning: 	File has moved from www.leonsintegrations.com/?p=2865 to http://www.leonsintegrations.com/about/
+10:05:27	Warning: 	Moved Permanently for www.leonsintegrations.com/?p=21
+10:05:27	Warning: 	File has moved from www.leonsintegrations.com/?p=21 to http://www.leonsintegrations.com/contact-us/
+10:06:30	Warning: 	Moved Permanently for www.leonsintegrations.com/?p=662
+10:06:30	Warning: 	File has moved from www.leonsintegrations.com/?p=662 to http://www.leonsintegrations.com/careers/
+10:09:00	Warning: 	Moved Permanently for www.leonsintegrations.com/?p=5148
+10:09:00	Warning: 	File has moved from www.leonsintegrations.com/?p=5148 to http://www.leonsintegrations.com/product/fuel-dispenser-control-card/
+10:09:00	Warning: 	Moved Permanently for www.leonsintegrations.com/?p=4898
+10:09:00	Warning: 	File has moved from www.leonsintegrations.com/?p=4898 to http://www.leonsintegrations.com/product/mppt-charge-controller/
+10:09:02	Warning: 	Moved Permanently for www.leonsintegrations.com/?p=3013
+10:09:02	Warning: 	File has moved from www.leonsintegrations.com/?p=3013 to http://www.leonsintegrations.com/product/2-bluetooth-thermal-printer/
+10:09:47	Warning: 	Moved Permanently for www.leonsintegrations.com/?p=1490
+10:09:47	Warning: 	File has moved from www.leonsintegrations.com/?p=1490 to http://www.leonsintegrations.com/product/1-o-energy-meter/
+10:10:05	Warning: 	Moved Permanently for www.leonsintegrations.com/?p=3045
+10:10:05	Warning: 	File has moved from www.leonsintegrations.com/?p=3045 to http://www.leonsintegrations.com/product/2-inch-panel-mount-thermal-printer/
+10:10:24	Warning: 	Moved Permanently for www.leonsintegrations.com/?p=3005
+10:10:24	Warning: 	File has moved from www.leonsintegrations.com/?p=3005 to http://www.leonsintegrations.com/product/gsmgps-868/
+10:10:24	Warning: 	Moved Permanently for www.leonsintegrations.com/?p=3001
+10:10:24	Warning: 	File has moved from www.leonsintegrations.com/?p=3001 to http://www.leonsintegrations.com/product/ligsm-206c/
+10:10:24	Warning: 	Moved Permanently for www.leonsintegrations.com/?p=2997
+10:10:24	Warning: 	File has moved from www.leonsintegrations.com/?p=2997 to http://www.leonsintegrations.com/product/ligsm-800c/
+10:10:24	Warning: 	Moved Permanently for www.leonsintegrations.com/?p=3008
+10:10:24	Warning: 	File has moved from www.leonsintegrations.com/?p=3008 to http://www.leonsintegrations.com/product/smwt-1e/
+10:10:24	Warning: 	Moved Permanently for www.leonsintegrations.com/?p=2993
+10:10:24	Warning: 	File has moved from www.leonsintegrations.com/?p=2993 to http://www.leonsintegrations.com/product/1n01/
+10:10:24	Warning: 	Moved Permanently for www.leonsintegrations.com/?p=2995
+10:10:24	Warning: 	File has moved from www.leonsintegrations.com/?p=2995 to http://www.leonsintegrations.com/product/1r01/
+10:10:24	Error: 	"Not Found" (404) at link www.leonsintegrations.com/shop/iot-iiot-module/bluetooth-module/bluetooth-wireless-module-1t01/ (from www.leonsintegrations.com/product/bluetooth-wireless-module-1t01/)
+10:10:24	Warning: 	Moved Permanently for www.leonsintegrations.com/?p=2978
+10:10:24	Warning: 	File has moved from www.leonsintegrations.com/?p=2978 to http://www.leonsintegrations.com/product/bluetooth-wireless-module-1t01/
+10:10:32	Warning: 	Moved Permanently for www.leonsintegrations.com/?p=2986
+10:10:32	Warning: 	File has moved from www.leonsintegrations.com/?p=2986 to http://www.leonsintegrations.com/product/1t02/
+10:10:33	Warning: 	Moved Permanently for www.leonsintegrations.com/?p=2988
+10:10:33	Warning: 	File has moved from www.leonsintegrations.com/?p=2988 to http://www.leonsintegrations.com/product/1t07/
+10:10:39	Error: 	"Not Found" (404) at link www.leonsintegrations.com/shop/uncategorized/solar-monitoring-system/ (from www.leonsintegrations.com/product/solar-monitoring-system/)
+10:10:39	Warning: 	Moved Permanently for www.leonsintegrations.com/?p=4900
+10:10:39	Warning: 	File has moved from www.leonsintegrations.com/?p=4900 to http://www.leonsintegrations.com/product/solar-monitoring-system/
+
+HTTrack Website Copier/3.49-2 mirror complete in 21 minutes 18 seconds : 623 links scanned, 575 files written (56684685 bytes overall) [35599048 bytes received at 27855 bytes/sec], 29066326 bytes transferred using HTTP compression in 157 files, ratio 16%, 7.5 requests per connection
+(19 errors, 57 warnings, 0 messages)
